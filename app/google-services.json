@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "361611697947",
+    "firebase_url": "https://my-super-chat.firebaseio.com",
+    "project_id": "my-super-chat",
+    "storage_bucket": "my-super-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361611697947:android:7d7e14d00b198d13",
+        "android_client_info": {
+          "package_name": "com.pecosi.mysuperchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361611697947-39ikvdv1vuac8um051cr5ioo4qrhlto6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWCdm9Dgk5kXaEeCk6q_KDAozHsCLbB4"
+
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
